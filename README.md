@@ -19,6 +19,6 @@ Linguagens usadas:
 
 ##
 
-# Logo:
+## Logo:
 <img width="412" alt="versastore" src="https://github.com/josevitor555/E-commerce_VersaStore3.0/assets/127617992/e865f483-d0cb-4e86-9cbe-ad452db32e33">
 
